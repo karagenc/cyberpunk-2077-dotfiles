@@ -1,0 +1,70 @@
+*.font: xft:Bitstream Vera Sans Mono:pixelsize=16
+
+Xft.dpi:                        96
+Xft.antialias:                  1
+Xft.autohint:                   1
+Xft.hinting:                    1
+Xft.hintstyle:                  hintslight
+Xft.lcdfilter:                  lcdlight
+Xft.rgba:                       rgb
+
+URxvt.keysym.Shift-Control-V: perl:clipboard:paste
+URxvt.keysym.Shift-Control-C: perl:clipboard:copy
+URxvt.perl-ext-common: default,clipboard
+
+URxvt*termName:                 rxvt-256color
+URxvt.depth:                    32
+URxvt*lineSpace:                1
+URxvt.letterSpace:              -1
+URxvt.iso14755:                 false
+URxvt.iso14755_52:              false
+URxvt.scrollBar:                false
+URxvt*loginShell:               true
+URxvt.internalBorder:           25
+URxvt.perl-ext:	 		default,matcher
+URxvt.url-launcher:             chromium
+URxvt.matcher.button: 		1
+
+!*.foreground:   #ffeefc
+!*.background:   #000000
+!*.cursorColor:  #c16772
+
+URxvt.transparent:   true
+URxvt.shading:       20
+
+! special
+*.foreground:   #FF2F45
+*.background:   #030303
+*.cursorColor:  #a5a5bc
+
+! black
+*.color0:       #090909
+*.color8:       #404040
+
+! red
+*.color1:       #8c4665
+*.color9:       #bf4d80
+
+! green
+*.color2:       #287373
+*.color10:      #53a6a6
+
+! yellow
+*.color3:       #7c7c99
+*.color11:      #9e9ecb
+
+! blue
+*.color4:       #22EDFC
+*.color12:      #22EDFC
+
+! magenta
+*.color5:       #5e468c
+*.color13:      #7e62b3
+
+! cyan
+*.color6:       #31658c
+*.color14:      #6096bf
+
+! white
+*.color7:       #9e9ecb
+*.color15:      #c0c0c0
