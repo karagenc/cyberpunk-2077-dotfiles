@@ -1,4 +1,4 @@
-# Cyberpunk 2077 Dotfilezzz
+# Cyberpunk 2077 Dotfiles
 
 #### Wallpaper can be found here: http://hdqwalls.com/wallpapers/2018-cyberpunk-2077-4k-n6.jpg
 
